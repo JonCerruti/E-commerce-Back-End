@@ -1,4 +1,3 @@
-//this one
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
@@ -14,7 +13,7 @@ Category.init(
       primaryKey: true,
       autoIncrement: true
     },
-    location_name: {
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false
     }
