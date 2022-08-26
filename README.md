@@ -12,6 +12,7 @@
 - [Want to Contribute?](#want-to-contribute)
 - [Testing](#testing)
 - [Questions?](#questions)
+- [Project in Use](#project-in-use)
 - [Contact Me](#contact-me)
 
 ---
